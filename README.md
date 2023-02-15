@@ -13,5 +13,5 @@ This project is a simple html and css project about computer Science
 
 	
 ## links that helped me to learn css
-<a href="w3schools.com">W3shcools</a><br>
-<a href="codeacademy.com">code academy</a>
+[@ codeacademy](https://www.codecademy.com/)<br>
+[@ w3shcool](https://www.w3schools.com/)
